@@ -22,10 +22,6 @@ Como Usar:
 
 Certifique-se de que os valores inseridos estejam dentro do intervalo correto (0-255) e sejam números inteiros. Caso contrário, você receberá mensagens de erro apropriadas.
 
-# Exemplo
-
-Exemplo de Uso
-
 # Personalização
 
 Você pode personalizar o estilo da página, o tamanho do contêiner e outros aspectos editando o arquivo style.css. O JavaScript responsável pela funcionalidade do sistema está no arquivo script.js.
@@ -48,6 +44,6 @@ Este projeto é distribuído sob a licença MIT. Sinta-se à vontade para usá-l
 
 # Contato
 
-Se você tiver alguma dúvida ou precisar de suporte, entre em contato pelo e-mail [seu-email@example.com].
+Se você tiver alguma dúvida ou precisar de suporte, entre em contato pelo e-mail [thallyanyaparecidanovais@gmail.com].
 
 Espero que isso ajude a criar um README útil para o seu projeto. Certifique-se de personalizá-lo com as informações relevantes ao seu projeto e suas preferências.
