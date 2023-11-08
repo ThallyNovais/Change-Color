@@ -1,4 +1,4 @@
-## Change Colors
+# Change Colors
 
 Change Colors é um simples sistema web que permite que os usuários escolham e definam uma cor personalizada usando valores RGB. Basta inserir os valores de Vermelho (R), Verde (G) e Azul (B) e clicar no botão "Set color" para alterar a cor de fundo da página.
 
