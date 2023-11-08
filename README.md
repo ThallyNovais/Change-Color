@@ -46,4 +46,3 @@ Este projeto é distribuído sob a licença MIT. Sinta-se à vontade para usá-l
 
 Se você tiver alguma dúvida ou precisar de suporte, entre em contato pelo e-mail [thallyanyaparecidanovais@gmail.com].
 
-Espero que isso ajude a criar um README útil para o seu projeto. Certifique-se de personalizá-lo com as informações relevantes ao seu projeto e suas preferências.
