@@ -30,12 +30,12 @@ Você pode personalizar o estilo da página, o tamanho do contêiner e outros as
 
 Contribuições são bem-vindas! Se você quiser contribuir para este projeto, siga estas etapas:
 
-Faça um fork do repositório.
-Clone o seu fork em seu ambiente local.
-Crie uma nova branch para suas alterações: git checkout -b feature/sua-feature.
-Faça suas alterações e comite: git commit -m 'Adicionar nova funcionalidade'.
-Envie suas alterações para o seu fork: git push origin feature/sua-feature.
-Crie um pull request para este repositório original.
+1. Faça um fork do repositório.
+2. Clone o seu fork em seu ambiente local.
+3. Crie uma nova branch para suas alterações: git checkout -b feature/sua-feature.
+4. Faça suas alterações e comite: git commit -m 'Adicionar nova funcionalidade'.
+5. Envie suas alterações para o seu fork: git push origin feature/sua-feature.
+6. Crie um pull request para este repositório original.
 
 
 # Licença
