@@ -15,7 +15,9 @@ Como Usar
 3. No formulário "Insert your color," insira os valores RGB desejados:
 
 R: Valor para a componente vermelha (entre 0 e 255).
+
 G: Valor para a componente verde (entre 0 e 255).
+
 B: Valor para a componente azul (entre 0 e 255).
 
 4. Clique no botão "Set color" para atualizar o fundo da página com a cor especificada.
