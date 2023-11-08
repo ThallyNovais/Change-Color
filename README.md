@@ -6,7 +6,7 @@ Change Colors é um simples sistema web que permite que os usuários escolham e 
 
 Você pode ver o projeto em ação aqui.
 
-Como Usar
+Como Usar:
 
 1. Faça o download ou clone o repositório em seu ambiente de desenvolvimento.
 
@@ -14,9 +14,9 @@ Como Usar
 
 3. No formulário "Insert your color," insira os valores RGB desejados:
 
-R: Valor para a componente vermelha (entre 0 e 255).<br>
-G: Valor para a componente verde (entre 0 e 255).<br>
-B: Valor para a componente azul (entre 0 e 255).
+  R: Valor para a componente vermelha (entre 0 e 255).<br>
+  G: Valor para a componente verde (entre 0 e 255).<br>
+  B: Valor para a componente azul (entre 0 e 255).
 
 4. Clique no botão "Set color" para atualizar o fundo da página com a cor especificada.
 
